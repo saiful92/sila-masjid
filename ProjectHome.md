@@ -1,0 +1,1 @@
+Proyek ini merupakan program berbasis web dan dikembangkan dengan menggunakan bahasa pemrograman java. Hasil dari proyek ini adalah sebuah sistem berbasis web yang dapat digunakan untuk pembukuan keuangan masjid dan pelaporan keuangan serta informasi umum tentang masjid.
